@@ -1,0 +1,75 @@
+body {
+	color: #000000;
+  font-family: "PT Sans";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+h1 {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 42px;
+}
+
+h2 {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 42px;
+}
+
+h2 .features {
+  color: #f7f4f1;
+  font-family: "PT Sans";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 42px;
+}
+
+h3 .catalog-category {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+h3 .catalog-item-title {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+  text-transform: none;
+}
+
+p {
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+p .features {
+  color: #f7f4f1;
+  font-family: "PT Sans";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+legend {
+  height: 21px;
+  color: #000000;
+  font-family: "PT Sans";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
