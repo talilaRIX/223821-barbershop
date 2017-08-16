@@ -1,75 +1,32 @@
 body {
-	color: #000000;
-  font-family: "PT Sans";
+  font-family: "PT Sans, Tahoma, sans-serif";
   font-size: 14px;
   font-weight: 700;
-  line-height: 24px;
+  line-height: 1.71;
   text-transform: uppercase;
 }
 
-h1 {
-  color: #000000;
-  font-family: "PT Sans";
+.title-main {
   font-size: 30px;
-  font-weight: 700;
-  line-height: 42px;
+  line-height: 1.4;
 }
 
-h2 {
-  color: #000000;
-  font-family: "PT Sans";
-  font-size: 30px;
-  font-weight: 700;
-  line-height: 42px;
-}
-
-h2 .features {
-  color: #f7f4f1;
-  font-family: "PT Sans";
-  font-size: 30px;
-  font-weight: 700;
-  line-height: 42px;
-}
-
-h3 .catalog-category {
-  color: #000000;
-  font-family: "PT Sans";
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 18px;
-}
-
-h3 .catalog-item-title {
-  color: #000000;
-  font-family: "PT Sans";
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 18px;
-  text-transform: none;
-}
-
-p {
-  color: #000000;
-  font-family: "PT Sans";
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 24px;
-}
-
-p .features {
-  color: #f7f4f1;
-  font-family: "PT Sans";
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 24px;
-}
-
-legend {
-  height: 21px;
-  color: #000000;
-  font-family: "PT Sans";
+.title-secondary {
   font-size: 24px;
-  font-weight: 700;
-  line-height: 30px;
+  line-height: 1.25;
 }
 
+.features-list {
+  color: #f7f4f1;
+}
+
+.filter-option {
+  font-size: 14px;
+  line-height: 1.29;
+}
+
+.catalog-category {
+  font-size: 14px;
+  line-height: 1.29;
+  text-transform: none
+}
