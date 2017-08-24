@@ -2,17 +2,14 @@ body {
   margin: 0;
   padding: 0;
 
-  font-family: "PT Sans", "Tahoma", sans-serif;
+  font-family: "PT Sans Narrow", "Tahoma", sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 1.71;
   color: #ffffff;
   text-transform: uppercase;
 
-  background-color: #000000;
-  background-image: url("img/index-background.jpg");
-  background-position: top center;
-  background-repeat: no-repeat;
+  background: #000000 url("img/index-background.jpg") 0 50% no-repeat;
 }
 
 .inner-page {
@@ -266,11 +263,8 @@ a {
   background-color: #ffffff;
 }
 
-.product-photo-preview li {
-  box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
-}
-
-.product-photo-full {
+.product-photo-preview li,
+.product-photo-full{
   box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
 }
 
